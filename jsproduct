@@ -4,7 +4,7 @@
     "product":[
         {"description":"dfdfd","productId":1,"imgProduct":"/imgs/muctuoi.jpg","salePrice":20000,"nameProduct":"Mực tươi","cateid":1,"unit":"kg"},
        
-        {"description":"dfdfd","productId":2,"imgProduct":"https://github.com/cty64/haisanlananh/issues/2#issue-2420923219","salePrice":20000,"nameProduct":"Chả cá","cateid":2,"unit":"kg"}
+        {"description":"dfdfd","productId":2,"imgProduct":"https://github.com/user-attachments/assets/d99358df-4a3d-4f6c-9aaf-e38caf390c92","salePrice":20000,"nameProduct":"Chả cá","cateid":2,"unit":"kg"}
         
     ]
 }
