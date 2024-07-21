@@ -1,5 +1,10 @@
-[
-{'name':'Dell Computer Monitor',salePrice:'239000',retailPrice:'239000'},
-{'name':'Coach Tabby 26 for sale',salePrice:'539000',retailPrice:'539000'},
-{'name':'Gaming Chair, local pickup only',salePrice:'139000',retailPrice:'139000'},
-]
+{
+    "loactions":{"shopname":"Hải sản Lan Anh","address":"quận Tân Phú","phone":"0908545454"},
+    "category":[{"id":0,"name":"Tất cả sản phẩm"},{"id":1,"name":"Mực tươi"},{"id":2,"name":"cá tươi"}],
+    "product":[
+        {"description":"dfdfd","productId":1,"imgProduct":"/src/imgs/muctuoi.jpg","salePrice":20000,"nameProduct":"Mực tươi","cateid":1,"unit":"kg"},
+       
+        {"description":"dfdfd","productId":2,"imgProduct":"/src/imgs/chaca.jpg","salePrice":20000,"nameProduct":"Chả cá","cateid":2,"unit":"kg"}
+        
+    ]
+}
