@@ -1,5 +1,5 @@
 {
-    "loactions":{"shopname":"Hải sản Lan Anh","address":"quận Tân Phú","logo":"/imgs/logola.jpg","phone":"0908545454"},
+    "loactions":{"shopname":"Hải sản Lan Anh","address":"quận Tân Phú","logo":"https://github.com/user-attachments/assets/afb6878b-f33d-4703-a755-c476af75440d","phone":"0908545454"},
     "category":[{"id":0,"name":"Tất cả sản phẩm"},{"id":1,"name":"Mực tươi"},{"id":2,"name":"cá tươi"}],
     "product":[
         {"description":"dfdfd","productId":1,"imgProduct":"/imgs/muctuoi.jpg","salePrice":20000,"nameProduct":"Mực tươi","cateid":1,"unit":"kg"},
